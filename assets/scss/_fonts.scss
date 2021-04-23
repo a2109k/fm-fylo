@@ -1,0 +1,15 @@
+// FONT FAMILY
+
+$RalewayBold: Raleway-Bold;
+$RalewayRegular: Raleway-Regular;
+
+@font-face {
+    font-family: $RalewayBold;
+    src: url("../fonts/Raleway-Bold.ttf");
+}
+@font-face {
+    font-family: $RalewayRegular;
+    src: url("../fonts/Raleway-Regular.ttf");
+}
+
+
